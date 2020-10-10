@@ -291,5 +291,3 @@ Go is expressive, concise, clean, and efficient. Its concurrency mechanisms make
 
 # PRs made directly to contributors list without adding any useful Resource / Project / Solving Issues will be marked as ```invalid/spam``` .
 
-### License
-This repository follows [MIT](https://github.com/Ishaan28malik/Hacktoberfest-2020/blob/master/LICENSE) License.
