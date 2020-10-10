@@ -6,7 +6,7 @@ public class BubbleSort {
 		// TODO Auto-generated method stub
              
 		
-		int a[] =  {2, 4, -1, -8, 6, 8, -12};
+		int a[] =  {2, 4, -1, -8, 6, 7, 8, -12};
 		int n = a.length;
 		
 		boolean sorted = true;
