@@ -4,7 +4,7 @@ public class SelectionSort {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-                int a[] = {-4, -5, 9, 7, 10, 6};
+                int a[] = {-4, -5, 9, 7, 10, 6, 10};
                 int n = a.length;
                 
                 
